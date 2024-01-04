@@ -1,0 +1,8 @@
+[
+    {"isim": "Ahmet", "cinsiyet": "Erkek", "pozisyon": "Garson", "izin_hakki": 1},
+    {"isim": "Ayşe", "cinsiyet": "Kadın", "pozisyon": "Barista", "izin_hakki": 1},
+    {"isim": "Mehmet", "cinsiyet": "Erkek", "pozisyon": "Garson", "izin_hakki": 1},
+    {"isim": "Fatma", "cinsiyet": "Kadın", "pozisyon": "Barista", "izin_hakki": 1},
+    {"isim": "Ali", "cinsiyet": "Erkek", "pozisyon": "Garson", "izin_hakki": 1}
+  ]
+  
